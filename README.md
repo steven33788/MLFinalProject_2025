@@ -1,1 +1,3 @@
-# MLFinalProject_2025
+# 2025 machine learning
+
+> Final Project
