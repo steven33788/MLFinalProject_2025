@@ -112,4 +112,4 @@ RL 的獎勵訊號是一個複雜的**多目標函數**：
 
 ### Python程式輸出結果
 
-![alt text](image.png)
+![alt text](ProgrammingOutput.png)
